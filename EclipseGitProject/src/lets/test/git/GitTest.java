@@ -5,5 +5,6 @@ public class GitTest {
 		System.out.println("Git is fun");
 		System.out.println("Git is Really fun");
 		System.out.println("Aha! my second consicutive push");
+		System.out.println("Working with team on GIT seems really easy.. :)");
 	}
 }
